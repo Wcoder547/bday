@@ -1,0 +1,8 @@
+# Exported from Render on 2024-07-21T14:06:21Z
+services:
+  - type: web
+    name: birthday
+    runtime: static
+    repo: https://github.com/Wcoder547/bday
+    staticPublishPath: index.html
+version: "1"
